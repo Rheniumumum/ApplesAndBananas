@@ -9,9 +9,10 @@ PCのスペックによっては遅延が発生する可能性があります。
 プレイヤーは1人のみを想定しています。<br>
 
 ## ゲーム画面
-<img src="gamescene/image1.png">
-<img src="gamescene/image2.png">
-<img src="gamescene/image3.png">
+<div align="center">
+<img src="gamescene/image1.png" width=180px><br>
+<img src="gamescene/image2.png" width=180px><br>
+<img src="gamescene/image3.png" width=180px><br>
 
 ## 使用言語/開発環境等
  - Processing 
